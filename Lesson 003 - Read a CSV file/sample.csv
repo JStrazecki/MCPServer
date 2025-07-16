@@ -1,0 +1,33 @@
+Date,Product,Category,Region,Sales_Amount,Units_Sold,Customer_Type
+2024-01-15,Laptop Pro,Electronics,North America,1299.99,1,Business
+2024-01-15,Wireless Mouse,Electronics,North America,29.99,3,Consumer
+2024-01-16,Office Chair,Furniture,Europe,189.50,2,Business
+2024-01-16,Standing Desk,Furniture,Europe,449.99,1,Business
+2024-01-17,Smartphone X,Electronics,Asia Pacific,899.99,2,Consumer
+2024-01-17,Tablet Air,Electronics,Asia Pacific,599.99,1,Consumer
+2024-01-18,Conference Table,Furniture,North America,1250.00,1,Business
+2024-01-18,Wireless Headphones,Electronics,Europe,199.99,4,Consumer
+2024-01-19,Monitor 4K,Electronics,North America,399.99,2,Business
+2024-01-19,Ergonomic Keyboard,Electronics,Asia Pacific,89.99,5,Consumer
+2024-01-20,Bookshelf,Furniture,Europe,129.99,3,Consumer
+2024-01-20,Laptop Basic,Electronics,Asia Pacific,699.99,2,Consumer
+2024-01-21,Printer Laser,Electronics,North America,299.99,1,Business
+2024-01-21,Desk Lamp,Furniture,Europe,45.99,6,Consumer
+2024-01-22,Gaming Mouse,Electronics,North America,79.99,3,Consumer
+2024-01-22,Webcam HD,Electronics,Asia Pacific,149.99,2,Business
+2024-01-23,File Cabinet,Furniture,North America,199.99,2,Business
+2024-01-23,Bluetooth Speaker,Electronics,Europe,89.99,4,Consumer
+2024-01-24,Tablet Pro,Electronics,Asia Pacific,799.99,1,Business
+2024-01-24,Whiteboard,Furniture,Europe,89.99,2,Business
+2024-01-25,Router WiFi,Electronics,North America,129.99,3,Consumer
+2024-01-25,Storage Cabinet,Furniture,Asia Pacific,159.99,1,Consumer
+2024-01-26,Laptop Gaming,Electronics,Europe,1599.99,1,Consumer
+2024-01-26,Adjustable Stool,Furniture,North America,79.99,4,Business
+2024-01-27,Power Bank,Electronics,Asia Pacific,49.99,8,Consumer
+2024-01-27,Meeting Chair,Furniture,Europe,149.99,6,Business
+2024-01-28,Smart Watch,Electronics,North America,299.99,2,Consumer
+2024-01-28,Corner Desk,Furniture,Asia Pacific,299.99,1,Business
+2024-01-29,USB Drive,Electronics,Europe,19.99,12,Consumer
+2024-01-29,Lounge Chair,Furniture,North America,399.99,1,Consumer
+2024-01-30,Docking Station,Electronics,Asia Pacific,179.99,2,Business
+2024-01-30,Pendant Light,Furniture,Europe,69.99,3,Consumer
